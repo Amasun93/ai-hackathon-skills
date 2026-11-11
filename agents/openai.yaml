@@ -1,0 +1,6 @@
+interface:
+  display_name: "AI黑客松"
+  short_description: "陪学生建档、理解疾病、设计项目、制作原型、整理素材并准备路演"
+  default_prompt: "使用 $dawei-heikesong 帮我继续 AI黑客松项目，先看看当前文件和我需要完成的事情。"
+policy:
+  allow_implicit_invocation: true
