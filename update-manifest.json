@@ -1,0 +1,27 @@
+{
+  "schema": 1,
+  "repository": "Amasun93/ai-hackathon-skills",
+  "version": "1.2.0",
+  "hash_mode": "sha256-lf",
+  "files": {
+    "agents/openai.yaml": "2254bd4d13ab7660f83863b153ae4397ece66c43d1335e71c16c33f50ebfc8d2",
+    "AGENTS.md": "bbe2b5cee782f36714a99637d7a8c75f18fabbb0ba4a9529cef97fc79355c9e2",
+    "CHANGELOG.md": "f60905e3fe1f90b0d6cd0e8ee8a77695bb685ce61b45d687dbe0d62eeb8d0c8e",
+    "INSTALL.md": "44c8b664d956b553681b903db3bc55bdf7ac319920ee677ca2c24eb1a5e79ef8",
+    "README.md": "0ac25ad31c287584f03edd12e29b3620826afb489c215884ba21b93fb90c30c8",
+    "references/chatmaker.md": "1ffa3d819eadf3d511c319d6318de8af7bdaec7523c9278064bc1b0fbb5f27f0",
+    "references/disease-sources.md": "3775c32f3fd98669334f5828794b28581c11acb88df99c90244afb3456d7516b",
+    "references/gainiantu.md": "cf3cc4597355e33ea1c262fa1bd5cbeff7b522a21df09c21edc3ed1c85632534",
+    "references/jibing.md": "349c2e9a79039ffe7d2ea39ee3c245211d232f34802b0bb6f4b5591bc2e6d642",
+    "references/luyan.md": "a84588642e527e598e2cd2279ea112784b53154bac86b961c6bafaecbd217f7f",
+    "references/project-context.md": "c95d081b3e1977855ade8a5e4e192cf3c51a15e4cc261ab1b20418792b01261e",
+    "references/sheji.md": "543335e021c48efb28edf0efa57c7ece242509e255606d42204951ed1e751c41",
+    "references/sucai.md": "d08c7f016b53c97725cdd25609de97c45a25eb83442a8ff733fbef79d0a16a4a",
+    "references/update.md": "05493d7278cb0401c725d74252fe49ee1a4b9ed48dfc1b3b6f178a9dde8a58c5",
+    "references/wendang.md": "d1bf4940c2de91f05d87b7208af05ad163508200fc04d2e61cb41b64021fe8ea",
+    "RELEASING.md": "34035b791cb2a9395e729c212237d1abddca195de8a4e7cc45652e0a959b4bc8",
+    "scripts/check_update.py": "40f3fa2e59cff839f4be96281e169620fcfd998ace80bbcde5e529a014907b64",
+    "SKILL.md": "9334b3fedcd9ac7f5be95d63a959dd71f44d0e9635b7818befe54e7b65a3e780",
+    "VERIFICATION.md": "e6c15d5a5e00822cddbcdd9ed78b967163536e4787c0014ecc77a14ebe01e4a6"
+  }
+}
